@@ -1,0 +1,10 @@
+----------------
+Proyecto Web
+----------------
+
+1. los enlaces del menu van a desplegar submenus
+2. la image principal de la portada va a ser una galeria de imagenes y para esto de va a utilizar una galeria de jquery?
+3. la image great celebrety fhoto va a tener accion? las flechitas  se van a dirigir a una galeria de imagenes
+4. al darle click en el read more se va a ampliar mas texto del qiue se muestra
+5. los botones de la parte de abajo van a tener mas accion como dirigirse a otra pagina?
+6. 
