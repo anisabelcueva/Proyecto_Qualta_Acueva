@@ -7,4 +7,4 @@ Proyecto Web
 3. la image great celebrety fhoto va a tener accion? las flechitas  se van a dirigir a una galeria de imagenes
 4. al darle click en el read more se va a ampliar mas texto del qiue se muestra
 5. los botones de la parte de abajo van a tener mas accion como dirigirse a otra pagina?
-6. 
+6. Others
